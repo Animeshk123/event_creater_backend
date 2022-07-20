@@ -2,7 +2,7 @@
   "name": "your-task",
   "version": "1.0.0",
   "engines": {
-    "node": "16.x"
+    "node": "18.4"
   },
   "description": "",
   "main": "index.js",
